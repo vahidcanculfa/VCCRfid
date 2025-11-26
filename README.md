@@ -1,5 +1,5 @@
 # VCCRfid
-RFID Project
+RFID READER Project
 # UHF RFID Desktop Reader – Native C# WinForms Application
 
 A lightweight, high-performance Windows Forms application for UHF RFID desktop readers based on the widely used **Impinj R2000** chipset (common in many Chinese OEM fixed/desktop readers).
